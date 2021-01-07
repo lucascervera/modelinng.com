@@ -1,0 +1,8 @@
+.tc-tiddler-title {
+visibility: hidden;
+height: 0px;
+}.tc-titlebar {
+visibility: hidden;
+}.tc-comments-segment {
+visibility: hidden;
+}
